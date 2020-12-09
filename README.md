@@ -1,1 +1,1 @@
-# Data-Science-business-analytics
+# GRIP - Data-Science-business-analytics
